@@ -1,4 +1,4 @@
-# Generating STEM Based TED Talks using Deep learning
+# Generating STEM Based TED Talks Using Deep learning
 ## Dataset
 The dataset that was used for this project can be found on Kaggle: https://www.kaggle.com/miguelcorraljr/ted-ultimate-dataset. This dataset comes in several different languages, however we only used the English version which is titled `ted_talks_en.csv`.
 
